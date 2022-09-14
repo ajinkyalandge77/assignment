@@ -6,3 +6,4 @@ public class DuplicateContact extends Exception {
 		super(msg);
 	}
 }
+

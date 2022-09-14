@@ -8,6 +8,7 @@ public class Address {
 		return label;
 	}
 
+	
 	public String getAddress() {
 		return address;
 	}

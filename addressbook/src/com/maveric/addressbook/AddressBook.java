@@ -13,6 +13,7 @@ public class AddressBook {
 		} else {
 			throw new DuplicateContact("Contact already Exists");
 		}
+		
 	}
 
 	public List<Contact> searchByName(String name) {
