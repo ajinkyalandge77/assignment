@@ -13,6 +13,7 @@ public class Coffee implements Beverage {
 		return cost;
 	}
 
+	
 	@Override
 	public String getDescription() {
 		// TODO Auto-generated method stub

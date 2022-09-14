@@ -7,6 +7,7 @@ public class BeverageDemo {
 		c1 = new Cream(c1, 30);
 		printCoffee(c1);
 
+		
 	}
 
 	private static void printCoffee(Beverage c) {
