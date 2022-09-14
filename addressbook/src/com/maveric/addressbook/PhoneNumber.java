@@ -1,7 +1,6 @@
 package com.maveric.addressbook;
 /**
  * 
- * 
  * @author ajinkyaa
  *
  */

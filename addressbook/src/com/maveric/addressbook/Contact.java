@@ -3,7 +3,6 @@ package com.maveric.addressbook;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class Contact {
 	private String name;
 	private String organisation;
